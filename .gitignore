@@ -1,0 +1,16 @@
+# Ignore the pycache folders
+**pycache**
+
+# Ignore tests files
+**_test.**
+
+# Virtual environnement
+**\venv**
+
+# Images of the predictions (to avoid merge conflicts when running tests)
+Predictions_month_1.png
+Predictions_month_2.png
+Predictions_month_3.png
+Predictions_month_4.png
+Predictions_month_5.png
+Predictions_month_6.png

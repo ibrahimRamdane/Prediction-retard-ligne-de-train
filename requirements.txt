@@ -1,0 +1,8 @@
+category_encoders==2.6.2
+folium==0.14.0
+matplotlib==3.4.3
+numpy==1.21.3
+pandas==1.5.2
+pandas_stubs==1.2.0.35
+scikit_learn==1.0.2
+xgboost==2.0.0
